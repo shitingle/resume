@@ -1,0 +1,142 @@
+.basic-info-left{
+	float: left;
+}
+.basic-info-right{
+	float: right;
+}
+.clear{
+	clear: both;
+}
+#edit-form{
+	padding-left: 36px;
+	padding-right: 36px;
+	padding-top: 24px;
+	color: #595757;
+	font-family: '方正兰亭细黑_GBK';
+	
+}
+#name{
+	font-size: 36px;
+	font-family: '方正兰亭特黑_GBK';
+}
+.input{
+	border: none;
+	-webkit-border-radius: 1px;
+	border-radius: 1px;
+}
+.input:hover{
+	background-color: #a05f40;
+	-webkit-border-radius: 5px;
+	border-radius: 5px;
+}
+.radius5{
+	-webkit-border-radius: 5px;
+	border-radius: 5px;
+}
+.bg-red{
+	background-color: red;
+}
+.block{
+	display: block;
+	width: 65px;
+}
+.intent span{
+	color: #fff;
+}
+#intent{
+	font-size: 18px;
+	
+}
+.intents{
+	color: red;
+}
+.detail-info{
+	padding-top: 16px;
+}
+.column{
+	display: inline-block;
+}
+.column1{
+	width: 238px;
+}
+.column2{
+	width: 238px;
+}
+
+.during{
+	float: left;
+
+}
+.red{
+	color: red;
+}
+.exprience-content{
+	float: left;
+	padding-left: 24px;
+}
+
+.job{
+	font-size: 14px;
+}
+
+.border-red{
+	border-left: 6px solid #ad2026;	
+}
+.border-gray{
+	border-left: 6px solid #545253
+}
+.border-light-gray{
+	border-left: 6px solid #b3b5b4
+}
+.light-gray{
+	color: #b3b5b4;
+}
+.ex_container{
+	padding-left: 12px;
+}
+.exprience-content textarea{
+	padding-top: 6px;
+
+
+}
+
+.bold{
+	font-weight: bold;
+}
+h2{
+	font-family: '方正兰亭特黑_GBK';
+}
+.company{
+	font-family: '方正兰亭特黑_GBK';
+}
+.school{
+	font-family: '方正兰亭特黑_GBK';
+}
+
+.width150{
+	margin-right: 150px;
+}
+.personal_reward-content{
+	padding-left: 177px;
+}
+.icon-control{
+	position: relative;
+}
+/*
+.icon-email{
+	background: url('../img/icon_mail.png');
+}
+.icon-qq{
+	background: url('../img/icon_qq.png');
+}
+.icon-phone{
+	background: url('../img/icon_phone.png');
+}
+*/
+.icon{
+	position: absolute;
+	top: 50%;
+	margin-top: -10px;
+	width: 32px;
+	margin-left: -24px;
+}

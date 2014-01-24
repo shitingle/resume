@@ -1,0 +1,38 @@
+.image-row img{
+	vertical-align: bottom;
+}
+.image-row{
+	padding-top: 10px;
+	min-width: 980px;
+	margin-top: 100px;
+}
+.image-set{
+
+
+}
+.resume-row{
+	background: url('../img/resume_blank.png');
+	background-repeat: no-repeat;
+	width: 130px;
+	height: 191px;
+	margin-left: 15px;
+}
+img.thumb-nail{
+	width: 130px;
+	height: 184px;
+
+
+}
+.resume-column{
+	display: inline-block;
+	width: 163px;
+}
+#navigation{
+	position: fixed;
+	min-width: 1170px;
+	padding-top: 10px;
+
+}
+#navigation hr{
+	margin: 0px;
+}

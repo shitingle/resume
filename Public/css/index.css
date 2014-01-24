@@ -1,0 +1,22 @@
+.container{
+	width: 1200px;
+}
+.resume_palette{
+	background: url('../img/portfolio.png');
+	width: 650px;
+	height: 416px;
+	margin: 0 auto;
+	position: relative;
+}
+.resume_palette img{
+	padding-top: 155px;
+}
+.dot1{
+	position: absolute;
+	top: -43px;
+	left: 102px;
+}
+#main{
+	text-align:center;
+	padding-top:30px;
+}

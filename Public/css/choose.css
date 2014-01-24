@@ -1,0 +1,44 @@
+.container{
+	width: 1200px;
+}
+.show-choice{
+	background: url('../img/choose_back.png');
+	background-repeat: no-repeat;
+	width: 599px;
+	height: 316px;
+	margin: 0 auto;
+	margin-top: 30px;
+	font-family: '微软雅黑';
+	position: relative;
+}
+.student,.graduate,.office{
+	padding-top: 70px;
+	width: 199px;
+	float: left;
+	height: 226px;
+
+}
+.student{
+	border-right: 1px solid #ececec;
+}
+.office{
+	border-left: 1px solid #ececec;
+}
+.show-choice h1{
+	font-size: 25px;
+	font-weight: lighter;
+	color: #888;
+}
+.s_line{
+	position: absolute;
+	top:0px;
+	left: 0px;
+}
+.student:hover,.office:hover,.graduate:hover{
+	background: url('../img/choose_hover.png');
+};
+
+.student:active,.office:active,.graduate:active{
+	background: url('../img/choose_press_down.png');
+	
+}

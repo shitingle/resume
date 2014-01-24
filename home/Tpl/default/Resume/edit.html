@@ -1,0 +1,181 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <title>buid templete</title>
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <meta http-equiv="content-type" content="text/html; charset=UTF-8" />
+  <!-- Bootstrap -->
+  <link rel="stylesheet" href="http://cdn.bootcss.com/twitter-bootstrap/3.0.3/css/bootstrap.min.css">
+  <link rel="stylesheet" href="__PUBLIC__/css/edit.css">
+
+  <!-- HTML5 Shim and Respond.js IE8 support of HTML5 elements and media queries -->
+  <!-- WARNING: Respond.js doesn't work if you view the page via file:// -->
+  <!--[if lt IE 9]>
+  <script src="http://cdn.bootcss.com/html5shiv/3.7.0/html5shiv.min.js"></script>
+  <script src="http://cdn.bootcss.com/respond.js/1.3.0/respond.min.js"></script>
+  <![endif]-->
+
+</head>
+<body>
+  <div id="left-bar">
+
+    <a href="#" class="module">
+      <img src="__PUBLIC__/img/module.png"  />
+    </a>
+    <a href="#" class="output">
+      <img src="__PUBLIC__/img/output.png"  />
+    </a>
+
+  </div>
+  <div id="modulebar">
+    <div class="modulebar-heading">
+      <div class="modulebar-title">模块管理</div>
+      <div class="icon-back-big">
+        <a href="#">
+          <img src="__PUBLIC__/img/back.png"  />
+        </a>
+      </div>
+      <div class="clear"></div>
+    </div>
+    <div class="modules">
+      <div class="list-group">基本信息</div>
+      <div class="list-group">基本信息</div>
+      <div class="list-group">基本信息</div>
+      <div class="module-add">
+        <a href="#">添加模块</a>
+      </div>
+
+      <div class="chooseable" style="display:none">
+        <div class="module-choose">基本信息</div>
+        <div class="module-choose">基本信息</div>
+        <div class="module-choose">基本信息</div>
+      </div>
+
+      <div class="module-completed">
+        <a href="#">完成</a>
+      </div>
+
+    </div>
+
+  </div>
+
+  <div id="edit-area">
+    <div id="palette">
+      <div class="personal-info">
+        <div class="picture">
+          <img src="__PUBLIC__/imG/picture.png"></div>
+        <div class="show-name">
+          <p>潘道平</p>
+        </div>
+        <div class="separate"></div>
+        <div class="email">
+          <div class="icon-email"></div>
+          <span>veopan@163.com</span>
+
+        </div>
+        <div class="phone">
+          <div class="icon-phone"></div>
+          <span>18071029569</span>
+
+        </div>
+        <div class="separate"></div>
+        <div class="hobbies ">
+          <span>阅读</span>
+          <span>写作</span>
+          <br>
+          <span>电影</span>
+          <span>音乐</span>
+          <br>
+          <span>旅游</span>
+          <span>摄影</span>
+
+        </div>
+
+      </div>
+
+      <div id="resume">
+        <form action="__APP__/Resume/edit_resume?resume_id=1&seq=1,2" method="post" id="resume_form">
+        <ul id="sortable" class="ui-sortable">
+          <li class="modual1">
+            <div class="modual">
+            <div class="toolbar" style="display: none;">
+              <a class="del" href="#" title="删除模块"><img src="__PUBLIC__/img/m-del.png" /></a>
+              <a class="move" href="#" title="移动模块"><img src="__PUBLIC__/img/m-move.png" /></a>
+            </div>
+            <div class="module-inner">
+              <div class="module-title">
+                <div class="icon-person"></div>
+                <div class="intro-text">
+                  <p>基本信息</p>
+                </div>
+
+                <div class="clear"></div>
+              </div>
+              <div class="module-content">
+                <span>姓名：</span>
+                <input type="text" placeholder="潘道平" name="name">
+                <br>
+                <span>性别：</span>
+                <input type="text" placeholder="女" name='sex'>
+                <br>
+                <span>出生年月：</span>
+                <input type="text" placeholder="1993年7月" name='birthday'>
+                <br>
+                <span>学历：</span>
+                <input type="text" placeholder="本科" name='edu_background'>
+                <span>专业：</span>
+                <input type="text" placeholder="编辑出版（网络方向）专业" name='specialty'>
+              </div>
+              </div>
+            </div>
+          </li>
+          <li class="modual1">
+            <div class="modual">
+            <div class="toolbar" style="display: none;">
+              <a class="del" href="#" title="删除模块"><img src="__PUBLIC__/img/m-del.png" /></a>
+              <a class="move" href="#" title="移动模块"><img src="__PUBLIC__/img/m-move.png" /></a>
+            </div>
+            <div class="module-inner">
+              <div class="module-title">
+                <div class="icon-person"></div>
+                <div class="intro-text">
+                  <p>个人信息</p>
+                </div>
+
+                <div class="clear"></div>
+              </div>
+              <div class="module-content">
+                <span>姓名：</span>
+                <input type="text" placeholder="潘道平">
+                <br>
+                <span>性别：</span>
+                <input type="text" placeholder="女">
+                <br>
+                <span>出生年月：</span>
+                <input type="text" placeholder="1993年7月">
+                <br>
+                <span>学历：</span>
+                <input type="text" placeholder="本科">
+                <span>专业：</span>
+                <input type="text" placeholder="编辑出版（网络方向）专业"></div>
+              </div>
+            </div>
+          </li>
+
+        </ul>
+        
+      </form>
+      </div>
+    </div>
+  </div>
+
+  <div id="footer"></div>
+  <script src="http://cdn.bootcss.com/jquery/1.10.2/jquery.min.js"></script>
+  <script src="http://code.jquery.com/ui/1.10.3/jquery-ui.js"></script>
+  <script src="__PUBLIC__/js/goback.js"></script>
+  <script src="__PUBLIC__/js/toolbar.js"></script>
+  <script src="__PUBLIC__/js/temp1.js"></script>
+  <script src="__PUBLIC__/js/diy.js"></script>
+  <script src="http://cdn.bootcss.com/twitter-bootstrap/3.0.3/js/bootstrap.min.js"></script>
+</body>
+</html>

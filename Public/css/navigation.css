@@ -1,0 +1,34 @@
+
+#navigation{
+	font-family: '微软雅黑';
+	color:#000;
+	min-width: 980px;
+}
+.muted{
+	float: left;
+}
+.clear{
+	clear: both;
+}
+.nav-top,.user_bar{
+	padding-top: 15px;
+	padding-left: 45px;
+}
+.nav-pills>.active>a{
+	background-color: #34b331;
+}
+.nav-pills>li>a{
+	color: #888;
+}
+.nav .dropdown-toggle .caret {
+	border-top-color: #34b331;
+	border-bottom-color: #34b331;
+}
+.dropdown-menu>li>a:focus,.dropdown-menu>li>a:hover{
+	background-color: #34b331;
+	background-image:none;
+}
+.nav-pills>.active>a:hover{
+	background-color: #34b331;
+}
+#navigation hr {margin: 0px 0;}

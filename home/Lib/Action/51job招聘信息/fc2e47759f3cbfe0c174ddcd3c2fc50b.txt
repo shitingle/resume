@@ -1,0 +1,359 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=gb2312">
+<meta http-equiv="X-UA-Compatible" content="IE=EmulateIE7" />
+<title>【PHP  程序员 PHP Programmer，云南红木鸟科技有限公司】前程无忧官方招聘网站</title>
+<meta name="description" content="PHP  程序员 PHP Programmer云南红木鸟科技有限公司招聘 前程无忧官方网站，提供最新最全云南红木鸟科技有限公司招聘职位，以及PHP  程序员 PHP Programmer相关职业信息。帮助您顺利获得PHP  程序员 PHP Programmer的职位，开启崭新的一段职业生涯。">
+<meta name="robots" content="all">
+<link href="http://js.51jobcdn.com/in/css/style.css?20091215" rel="stylesheet" type="text/css" />
+<link href="http://js.51jobcdn.com/in/css/logo.css?20091215" rel="stylesheet" type="text/css" />
+<link href="http://js.51jobcdn.com/in/css/my.css?20091215" rel="stylesheet" type="text/css" />
+<link href="http://js.51jobcdn.com/in/css/search.css?20091215" rel="stylesheet" type="text/css" />
+<link rel="icon" href="/favicon.ico" type="image/x-icon" media="screen" />
+<link rel="shortcut icon" href="/favicon.ico" type="image/x-icon" media="screen" />
+<link rel="bookmark" href="/favicon.ico">
+<script language="javascript" src="http://js.51jobcdn.com/in/js/2009/Base.js?20100204"></script>
+<script language="javascript" src="http://js.51jobcdn.com/in/js/2009/Base.ZzLayer.js?20100204"></script>
+<script language="javascript" src="http://js.51jobcdn.com/in/js/2009/Base.ZzLayer.ExtZzLayer.js?20100204"></script>
+<script language="javascript" src="http://js.51jobcdn.com/in/js/2009/search/Base.Search.js?20100407"></script>
+<script language="javascript" src="http://js.51jobcdn.com/in/js/2009/payservice/GetCompetition.js?20100604"></script>
+<script language="javascript" src="http://js.51jobcdn.com/in/js/2009/my/My_SMS_Self.js?20100421"></script>
+</head>
+<body>
+<script language="javascript" src="http://js.51jobcdn.com/in/js/2009/jQuery.js"></script>
+<script language="javascript" src="http://js.51jobcdn.com/in/js/2009/JsBase.js"></script>
+<script language="javascript" src="http://js.51jobcdn.com/in/js/2009/login.js"></script><!--top start-->
+<div id="top">
+	  <div id="logobg">
+    <div id="arealogo"><a href="http://www.51job.com/default.php" onfocus="blur()"><img src="http://img01.51jobcdn.com/im/2009/logo/logo2009.gif" alt="前程无忧"/></a>
+<!--<embed src="http://img01.51jobcdn.com/im/2009/logo/logo.swf?20100429" quality="high" pluginspage="http://www.macromedia.com/go/getflashplayer" type="application/x-shockwave-flash" width="215" height="65" wmode="transparent"></embed>-->
+ </div>
+    <p id="areaver"> <span><a href="javascript:void(0)" onclick="return j2gb('');" onfocus="blur()">
+    <script language="javascript">
+    <!--
+    if(location.hostname == "big5.51job.com") {
+       document.write("简体版");
+    } else {
+       document.write("繁体版");
+    }
+    //-->
+    </script></a></span><span><img src="http://img01.51jobcdn.com/im/2009/vline.gif" alt="" align="absmiddle"/></span> <span><a href="http://www.51job.com/default-e.php" onfocus="blur()">English</a></span></p>
+    <span><img src="http://img01.51jobcdn.com/im/2009/logox1.gif" alt=""/></span> </div>
+  <p class="loginname" id="loginname">
+      </p>
+  <div class="navbt">
+    <ul>
+      <li><img src="http://img01.51jobcdn.com/im/2009/navx.gif" /><a href="http://www.51job.com/default.php" onfocus="blur()">首页</a></li>
+      <li><img src="http://img01.51jobcdn.com/im/2009/navx.gif" /><a href="http://tr.51job.com/default-tr.php" onfocus="blur()">培训充电</a></li>
+      <li><img src="http://img01.51jobcdn.com/im/2009/navx.gif" /><a href="http://www.51job.com/default-gj.php" onfocus="blur()">高级猎头</a></li>
+      <li><img src="http://img01.51jobcdn.com/im/2009/navx.gif" /><a href="http://www.51job.com/default-it.php" onfocus="blur()">IT人才</a></li>
+      <li><img src="http://img01.51jobcdn.com/im/2009/navx.gif" /><a href="http://arts.51job.com/cls/class_0501.html" onfocus="blur()">求职攻略</a></li>
+      <li><img src="http://img01.51jobcdn.com/im/2009/navx.gif" /><a href="http://bbs.51job.com" onfocus="blur()">BBS</a></li>
+      <li>
+                  <span id="loginOutLink" style="display:none;"><a href="http://my.51job.com/my/My_SignOut.php" class="orange" onfocus="blur()">退出</a></span>
+          <span id="loginInLink"><a href="http://my.51job.com/my/My_SignUp.php" class="orange" onfocus="blur()">注册</a><span class="orareg">|</span><a href="javascript:void(0);" onclick="showLoginDiv(this)" class="orange" onfocus="blur()">登录</a></span>
+              </li>
+    </ul>
+  </div>
+  <div class="clearboth"></div>
+  <!--地区频道-->
+  <div class="navbtbg">
+    <ul>
+      <li class="bts"><a href="javascript:gotoehire(0)" onfocus="blur()"><img src="http://img01.51jobcdn.com/im/2009/area/company.gif" alt="企业登录" border="0"/></a></li>
+      <li class="bts"><img src="http://img01.51jobcdn.com/im/2009/area/area1.gif" alt="地区频道" usemap="#Map"  id="all-channel-btn"/>
+      <map name="Map" id="Map">
+        <area shape="rect" coords="74,0,139,19" href="javascript:void(0);" onmouseover="showAreaDiv($('#all-channel-btn')[0],this)" />
+      </map></li>
+      <li class="bts"><a href="http://www.51job.com/default_res.php" onfocus="blur()"><img src="http://img01.51jobcdn.com/im/2009/area/career1.gif" alt="职场资讯" border="0"/></a></li>
+      <li class="bts"><a href="http://xy.51job.com/default-xs.php" onfocus="blur()"><img src="http://img01.51jobcdn.com/im/2009/area/school1.gif" alt="校园招聘" border="0"/></a></li>
+      <li class="bts"><a href="http://my.51job.com/cv/CResume/CV_CResumeManage.php" onfocus="blur()"><img src="http://img01.51jobcdn.com/im/2009/area/resume1.gif" alt="简历管理" border="0"/></a></li>
+      <li class="btshow"><a href="http://search.51job.com/jobsearch/advance_search.php?stype=2" onfocus="blur()"><img src="http://img01.51jobcdn.com/im/2009/area/search.gif" alt="职位搜索" border="0"/></a></li>
+      <li class="bts"><a href="http://my.51job.com/my/My_Pmc.php" onfocus="blur()"><img src="http://img01.51jobcdn.com/im/2009/area/my51job1.gif" alt="my51job" border="0"/></a></li>
+    </ul>
+  </div>
+  <div class="clearboth"></div>
+    <div class="menu2">
+	<table class="tbl searchNav">
+		<tr>
+			<td>
+				<a href="http://search.51job.com/jobsearch/advance_search.php?lang=c&stype=2">高级搜索</a><br />&nbsp;
+			</td>
+			<td>&nbsp;|&nbsp;<br />&nbsp;</td>
+			<td>
+				<a href="http://search.51job.com/jobsearch/index.php?lang=c&stype=1">关键字搜索</a><br />&nbsp;
+			</td>
+			
+			<td>&nbsp;|&nbsp;<br />&nbsp;</td>
+			<td>
+				<a href="http://search.51job.com/jobsearch/map_search.php?lang=c&stype=3">地图搜索</a><br />&nbsp;
+			</td>
+			<td>&nbsp;<img src="http://img01.51jobcdn.com/im/2009/my/hot001.gif" /><br />&nbsp;</td>
+		</tr>
+	</table>
+
+<span class="xqts"><b>小Q提示：</b>每天投递20份简历以上，就可能得到一次面试机会，加油申请吧！</span></div>
+  <div class="top_login_container" id="loginDiv">
+    <div class="top_login_head">
+      <p class="top_login_name">请登录</p>
+      <p class="top_login_close"><a href="javascript:void(0)" onclick="hideLoginDiv()"><img src="http://img01.51jobcdn.com/im/2009/bbs/close.gif"/></a></p>
+    </div>
+    <div class="top_login_content">
+      <form id="top_login_form" onsubmit="loginIn('http://my.51job.com');return false;">
+        <div style="display:none;"><input type="hidden" id="top_login_language" value="zh-cn"></div>
+        <table width="90%" border="0" align="center" cellpadding="2" cellspacing="0">
+          <tr><td height="20" id="top_login_form_validate_tips" align="left" colspan="3"></td></tr>
+          <tr><td height="29" align="left"><p>用户名：</p></td><td><input type="text" id="top_login_username" class="top_login_input"/></td><td>&nbsp;</td></tr>
+          <tr><td align="left" valign="top"><p>密&nbsp;&nbsp;码：</p></td><td valign="top"><input type="password" id="top_login_userpwd" class="top_login_input"/></td><td><a href="http://my.51job.com/my/My_ForgetEmail.php" target="_blank" class="orange">忘记密码</a></td></tr>
+          <tr><td colspan="3" align="center"><input name="submit" type="submit" class="top_login_btn" value="登录" id="top_login_submit_btn"/>&nbsp;&nbsp;<a href="http://my.51job.com/my/My_SignUp.php" class="orange" onfocus="blur()"><input type="button" onclick="window.location='http://my.51job.com/my/My_SignUp.php'" class="top_login_btn" value="注册" /></a></td></tr>
+        </table>
+      </form>
+    </div>
+  </div>
+  <div id="all-channel" align="left" style="display: none;z-index:999;">
+	<div style="line-height:22px;BORDER-RIGHT: #a5a5a5 1px solid; PADDING-RIGHT: 10px; BORDER-TOP: #a5a5a5 1px solid; PADDING-LEFT: 15px; PADDING-BOTTOM: 12px; BORDER-LEFT: #a5a5a5 1px solid; WIDTH: 410px; PADDING-TOP: 12px; BORDER-BOTTOM: #a5a5a5 1px solid; BACKGROUND-COLOR: #ffffff">
+		<table border="0" cellspacing="0" cellpadding="0" width="100%" align="center">
+		<tr>
+			<td class="normalfont"><strong>华北-东北：</strong></td>
+			<td>
+				<a href="http://www.51job.com/default-area.php?area=0100">北京</a>
+				<a href="http://www.51job.com/default-area.php?area=0500">天津</a>
+				<a href="http://www.51job.com/default-area.php?area=2303">大连</a>
+				<a href="http://www.51job.com/default-area.php?area=2302">沈阳</a>
+				<a href="http://www.51job.com/default-area.php?area=2402">长春</a>
+				<a href="http://www.51job.com/default-area.php?area=2202">哈尔滨</a>
+				<a href="http://www.51job.com/default-area.php?area=1602">石家庄</a>
+			</td>
+		</tr>
+		<tr>
+			<td class="normalfont"><strong>华东地区：</strong></td>
+			<td>
+				<a href="http://www.51job.com/default-area.php?area=0200">上海</a>
+				<a href="http://www.51job.com/default-area.php?area=0702">南京</a>
+				<a href="http://www.51job.com/default-area.php?area=0703">苏州</a>
+				<a href="http://www.51job.com/default-area.php?area=0802">杭州</a>
+				<a href="http://www.51job.com/default-area.php?area=0803">宁波</a>
+				<a href="http://www.51job.com/default-area.php?area=1502">合肥</a>
+				<a href="http://www.51job.com/default-area.php?area=1202">济南</a>
+				<a href="http://www.51job.com/default-area.php?area=1203">青岛</a>
+				<a href="http://www.51job.com/default-area.php?area=1102">福州</a>
+				<a href="http://www.51job.com/default-mn.php">闽南</a>
+				<a href="http://www.51job.com/default-area.php?area=1302">南昌</a>
+			</td>
+		</tr>
+		<tr>
+			<td class="normalfont"><strong>华南-华中：</strong></td>
+			<td>
+				<a href="http://www.51job.com/default-area.php?area=0302">广州</a>
+				<a href="http://www.51job.com/default-area.php?area=0400">深圳</a>
+				<a href="http://www.51job.com/default-area.php?area=0308">东莞</a>
+				<a href="http://www.51job.com/default-area.php?area=1802">武汉</a>
+				<a href="http://www.51job.com/default-area.php?area=1902">长沙</a>
+				<a href="http://www.51job.com/default-area.php?area=1702">郑州</a>	
+			</td>
+		</tr>
+		<tr>
+			<td class="normalfont"><strong>西北-西南：</strong></td>
+			<td>
+				<a href="http://www.51job.com/default-area.php?area=2002">西安</a>
+				<a href="http://www.51job.com/default-area.php?area=0902">成都</a>
+				<a href="http://www.51job.com/default-area.php?area=0600">重庆</a>
+				<a href="http://www.51job.com/default-area.php?area=2502">昆明</a>
+			</td>
+		</tr>
+		</table>
+	</div>
+	<iframe src="about:blank" scrolling="no" frameborder="0" marginheight="0" marginwidth="0" style="position:absolute;  top:0px; left:0px; width:415px; height:112px; z-index:-1;filter='progid:DXImageTransform.Microsoft.Alpha(style=0,opacity=0)';"></iframe>
+</div></div>
+<!--top end-->
+<div class="maincenter bgjob1" style="margin-bottom: 10px;"><div class="sr_ad"><div style="text-align: center;margin-bottom:5px;"><div style='width:750px;'><div align=center style="position: absolute;cursor: pointer; height: 90px; "><a href='http://ac.51job.com/phpAD/adtrace.php?ID=11598057' title="南昌频道火热上线" target='_blank' onfocus='blur()'><img  align='center' src="http://img01.51jobcdn.com//im/2009/spear.gif" width="750" border="0" height="90"></a></div><embed style='padding:0px;margin:0px;' align='center' width='750' height='90' src="http://img01.51jobcdn.com/im/images/2010/careerpost/nanchang/75090.swf" quality='high' pluginspage='http://www.macromedia.com/go/getflashplayer' type='application/x-shockwave-flash' wmode='transparent'></div></div><div class="s_txt_jobs"><br />
+			<table width="701" border="0" align="center" cellpadding="5" cellspacing="0" class="jobs_1">
+				<tr>
+					<td class="sr_bt" colspan="2" >PHP  程序员 PHP Programmer</td>
+				</tr>
+				<tr><td colspan="2" style="background-color:#F7FAFF; height: 20px; line-height:20px; "><strong style="font-size: 14px">云南红木鸟科技有限公司</strong>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="#gsjj" class="orange"><strong>查看公司简介&gt;&gt;</strong></a></td></tr><tr><td><strong>公司行业：</strong>&nbsp;&nbsp;计算机服务(系统、数据服务，维修)&nbsp;&nbsp;互联网/电子商务&nbsp;&nbsp;&nbsp;&nbsp;<strong>公司性质：</strong>&nbsp;&nbsp;民营公司<br><br><strong>公司规模：</strong>&nbsp;&nbsp;50-150人</td><td align="right" valign="bottom"><a href="http://my.51job.com/sc/applyjob/applyjob.php?jobiduni=41838787" target="_blank"><img src="http://img01.51jobcdn.com/im/2009/search/c/ljsq1.gif" width="83" height="30" align="absmiddle" /></a> <a href="javascript:void(0);" onclick="GetCompetition(41838787,0,'http://my.51job.com',1,1 );return false;" style="font-weight: bold;color: #0156C3;text-decoration: underline;">比比你的竞争力</a> <img src="http://img01.51jobcdn.com/im/2009/search/new_ico.gif" width="26" height="12" align="absmiddle" /></td></tr>
+			</table>
+		<table width="701" border="0" align="center" cellpadding="5" cellspacing="0" class="jobs_1"><tr><td style="font-size: 14px;" colspan="2"><strong></strong></td></tr><tr><td class="wordBreakNormal"></td></tr></table><table width="93%" border="0" align="center" cellpadding="0" cellspacing="0" class="jobs_1"><tr><td class="txt_1">发布日期：</td><td class="txt_2">2010-06-30</td><td class="txt_1">工作地点：</td><td class="txt_2">昆明</td><td class="txt_1">招聘人数：</td><td class="txt_2">5</td></tr><tr><td class="txt_1">工作年限：</td><td class="txt_2">一年以上</td><td class="txt_1">语言要求：</td><td class="txt_2">英语&nbsp;熟练</td><td class="txt_1">学&nbsp;&nbsp;&nbsp;&nbsp;历：</td><td class="txt_2">本科</td></tr>
+				<tr>
+					<td colspan="6" class="txt_9 zwms_lxfs">
+						职位描述
+					</td>
+				</tr>
+				<tr>
+					<td colspan="6" class="txt_4 wordBreakNormal job_detail"><meta http-equiv="Content-Type" content="text/html; charset=utf-8"><meta name="ProgId" content="Word.Document"><meta name="Generator" content="Microsoft Word 11"><meta name="Originator" content="Microsoft Word 11"><link rel="File-List" href="file:///C:%5CUsers%5CDavid%5CAppData%5CLocal%5CTemp%5Cmsohtml1%5C01%5Cclip_filelist.xml"><!--[if gte mso 9]><xml><br> <w:WordDocument><br>  <w:View>Normal</w:View><br>  <w:Zoom>0</w:Zoom><br>  <w:PunctuationKerning/><br>  <w:ValidateAgainstSchemas/><br>  <w:SaveIfXMLInvalid>false</w:SaveIfXMLInvalid><br>  <w:IgnoreMixedContent>false</w:IgnoreMixedContent><br>  <w:AlwaysShowPlaceholderText>false</w:AlwaysShowPlaceholderText><br>  <w:Compatibility><br>   <w:BreakWrappedTables/><br>   <w:SnapToGridInCell/><br>   <w:WrapTextWithPunct/><br>   <w:UseAsianBreakRules/><br>   <w:DontGrowAutofit/><br>   <w:UseFELayout/><br>  </w:Compatibility><br>  <w:BrowserLevel>MicrosoftInternetExplorer4</w:BrowserLevel><br> </w:WordDocument><br></xml><![endif]--><!--[if gte mso 9]><xml><br> <w:LatentStyles DefLockedState="false" LatentStyleCount="156"><br> </w:LatentStyles><br></xml><![endif]--><style><br><!--<br> /* Font Definitions */<br> @font-face<br>	{font-family:SimSun;<br>	panose-1:2 1 6 0 3 1 1 1 1 1;<br>	mso-font-alt:宋体;<br>	mso-font-charset:134;<br>	mso-generic-font-family:roman;<br>	mso-font-pitch:auto;<br>	mso-font-signature:3 680460288 22 0 262145 0;}<br>@font-face<br>	{font-family:"\@SimSun";<br>	panose-1:2 1 6 0 3 1 1 1 1 1;<br>	mso-font-charset:134;<br>	mso-generic-font-family:auto;<br>	mso-font-pitch:variable;<br>	mso-font-signature:3 680460288 22 0 262145 0;}<br> /* Style Definitions */<br> p.MsoNormal, li.MsoNormal, div.MsoNormal<br>	{mso-style-parent:"";<br>	margin:0in;<br>	margin-bottom:.0001pt;<br>	mso-pagination:widow-orphan;<br>	font-size:12.0pt;<br>	font-family:"Times New Roman";<br>	mso-fareast-font-family:SimSun;}<br>span.apple-style-span<br>	{mso-style-name:apple-style-span;}<br>@page Section1<br>	{size:8.5in 11.0in;<br>	margin:1.0in 1.25in 1.0in 1.25in;<br>	mso-header-margin:.5in;<br>	mso-footer-margin:.5in;<br>	mso-paper-source:0;}<br>div.Section1<br>	{page:Section1;}<br>--><br></style><!--[if gte mso 10]><br><style><br> /* Style Definitions */<br> table.MsoNormalTable<br>	{mso-style-name:"Table Normal";<br>	mso-tstyle-rowband-size:0;<br>	mso-tstyle-colband-size:0;<br>	mso-style-noshow:yes;<br>	mso-style-parent:"";<br>	mso-padding-alt:0in 5.4pt 0in 5.4pt;<br>	mso-para-margin:0in;<br>	mso-para-margin-bottom:.0001pt;<br>	mso-pagination:widow-orphan;<br>	font-size:10.0pt;<br>	font-family:"Times New Roman";<br>	mso-fareast-font-family:"Times New Roman";<br>	mso-ansi-language:#0400;<br>	mso-fareast-language:#0400;<br>	mso-bidi-language:#0400;}<br></style><br><![endif]--><span class="apple-style-span"><span style="font-size: 8pt; font-family: SimSun; color: black;" lang="ZH-CN">开发网络端（前端和后端）数据库应用软件</span><span style="font-size: 8pt; font-family: SimSun; color: black;">.1-2<span lang="ZH-CN">年</span>PHP<span lang="ZH-CN">开发经验，熟悉网络技术</span>(HTML, Javascript,XML, CSS, AJAX<span lang="ZH-CN">，熟悉类</span>MySQL<span lang="ZH-CN">数据库，</span>PHP5.0<span lang="ZH-CN">及更高版本.</span></span></span></td>
+				</tr>
+					<tr>
+						<td colspan="6" class="txt_3 zwms_lxfs no_border">
+							联系方式
+						</td>
+					</tr>
+					<tr>
+						<td class="txt_1  no_border">电子邮箱：</td>
+						<td class="txt_2  no_border" colspan="5">
+							<a href="mailto:arinihr@gmail.com?subject=%C9%EA%C7%EB%B9%F3%B9%AB%CB%BE%D4%DA51job%B7%A2%B2%BC%B5%C4%5BPHP%20%20%B3%CC%D0%F2%D4%B1%20PHP%20Programmer%5D%D6%B0%CE%BB" class="orange" onclick="(new Image()).src='http://search.51job.com/jobsearch/click-email.php?41838787;2380146;arinihr@gmail.com;'+Math.random()">arinihr@gmail.com</a>
+						</td>
+					</tr>
+					<tr><td colspan="6" class="txt_2">&nbsp;</td></tr>
+				<tr>
+					<td colspan="6" align="center" class="txt_4">
+						<a href="http://my.51job.com/sc/applyjob/applyjob.php?jobiduni=41838787" target="_blank"><img src="http://img01.51jobcdn.com/im/2009/search/c/ljsq1.gif" width="83" height="30" align="absmiddle" /></a> <a href="javascript:void(0);" onclick="GetCompetition(41838787,0,'http://my.51job.com',1,1 );return false;" style="font-weight: bold;color: #0156C3;text-decoration: underline;">比比你的竞争力</a> <img src="http://img01.51jobcdn.com/im/2009/search/new_ico.gif" width="26" height="12" align="absmiddle" /> <br>『&nbsp;<a class="orange" href="javascript:void(0);" onclick="zzSearch.saveJobClk( '41838787' , event );return false;" href1="http://my.51job.com/my/folder/Fo_PutIn.php?jobiduni=41838787">收藏</a>&nbsp;』 『&nbsp;<a class="orange" href="http://my.51job.com/sc/sendjob_tofriend.php?jobid=41838787&coid=2380146&divid=0" target="_blank">推荐给朋友</a>&nbsp;』 『&nbsp;<a class="orange" href="http://search.51job.com/list/co,c,2380146,0000,10,1.html" target="_blank">该公司其他职位</a>&nbsp;』 『&nbsp;<a class="orange" href="javascript:void(0);" onclick="window.print();return false;">打印</a>&nbsp;』
+					</td>
+				</tr>
+				<tr><td style="height:22px;" colspan="6">&nbsp;</td></tr></table>
+			<div class="jobs_com">
+				<div class="graybttop">
+					<span><img src="http://img01.51jobcdn.com/im/2009/graybttl.gif" align="left"/></span>
+					<span><img src="http://img01.51jobcdn.com/im/2009/graybttr.gif" align="right"/></span>
+					<div class="btname"><a name="gsjj"><img src="http://img01.51jobcdn.com/im/2009/search/c/gsjjbt.gif" /></a></div>
+				</div>
+				<div class="grayline">
+					<p class="graybttopbg"></p>
+					<div class="jobs_txt">
+						<p class="txt_font">云南红木鸟科技有限公司是一家技术最领先的开发3G无线互联网应用的高科技公司。公司由美国硅谷留学人员创立。位于昆明市五华区金鼎科技园内</p>
+						<p class="pot2"></p><p class="txt_font1">地&nbsp;&nbsp;&nbsp;&nbsp;址：昆明学府路690号金鼎科技园B1栋501<br />&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="javascript:void(0);" class="mapurlfont" style="color:#256db9;" onclick="smsEntry('http://my.51job.com','2380146'); return false;"><img src="http://img01.51jobcdn.com/im/2009/search/ico-phone.gif" align="absmiddle" style="margin-right:5px" />发送到手机</a></p><p class="txt_font1">邮政编码：650051</p><p class="txt_font1">联&nbsp;系&nbsp;人：钟绪</p>
+					</div>
+				</div>
+				<div class="graybott">
+					<span><img src="http://img01.51jobcdn.com/im/2009/graybl.gif" align="left"/></span>
+					<span><img src="http://img01.51jobcdn.com/im/2009/graybr.gif" align="right"/></span>			
+				</div>
+			</div>		
+			<div class="jobs_com">
+	<div class="graybttop">
+		<span><img src="http://img01.51jobcdn.com/im/2009/graybttl.gif" align="left"/></span>
+		<span><img src="http://img01.51jobcdn.com/im/2009/graybttr.gif" align="right"/></span>
+		<div class="btname"><img src="http://img01.51jobcdn.com/im/2009/search/c/wytjbt.gif" /></div>
+	</div>
+	<div class="grayline">
+		<p class="graybttopbg"></p>
+		<div class="jobs_txt"><table width="574" border="0" cellpadding="2" cellspacing="0" align="center">
+<tr>
+	<td><a href="http://ac.51job.com/phpAD/adtrace.php?ID=11611847" title="广州乐庚信息科技有限公司" target="_blank"><img src="http://img01.51jobcdn.com/im/images/2010/gz/legeng0701_7972.gif" border="0" width="90" height="30"></a></td>
+	<td width="2"></td>
+	<td><a href="http://ac.51job.com/phpAD/adtrace.php?ID=11608701" title="北京汇众益智科技有限公司广州分公司" target="_blank"><img src="http://img01.51jobcdn.com/im/images/2010/gz/huizhong0629_7295.gif" border="0" width="90" height="30"></a></td>
+	<td width="2"></td>
+	<td><a href="http://ac.51job.com/phpAD/adtrace.php?ID=10928500" title="更新简历就有奖！快来参加" target="_blank"><img src="http://images.51job.com/im/careerpost/2008/mkt_2008Q1/ad/9030.gif" border="0" width="90" height="30"></a></td>
+	<td width="2"></td>
+	<td><a href="http://ac.51job.com/phpAD/adtrace.php?ID=11597402" title="北京北测教育科技发展有限公司" target="_blank"><img src="http://img01.51jobcdn.com/im/images/2010/bj/beice0317_7601d.gif" border="0" width="90" height="30"></a></td>
+	<td width="2"></td>
+	<td><a href="http://ac.51job.com/phpAD/adtrace.php?ID=11566471" title="上海华育信息管理职业技术培训学校" target="_blank"><img src="http://img01.51jobcdn.com/im/images/2010/sh/huayu0412_8565x.gif" border="0" width="90" height="30"></a></td>
+	<td width="2"></td>
+	<td><a href="http://ac.51job.com/phpAD/adtrace.php?ID=11576131" title="广州市岭南职业培训学校" target="_blank"><img src="http://img01.51jobcdn.com/im/images/2010/gz/lingnanb0607_7894.gif" border="0" width="90" height="30"></a></td>
+</tr>
+<tr>
+	<td><a href="http://ac.51job.com/phpAD/adtrace.php?ID=11595940" title="南昌频道火热上线" target="_blank"><img src="http://img01.51jobcdn.com/im/images/2010/careerpost/nanchang/9030.gif" border="0" width="90" height="30"></a></td>
+	<td width="2"></td>
+	<td><a href="http://ac.51job.com/phpAD/adtrace.php?ID=11575481" title="达内IT集团" target="_blank"><img src="http://img01.51jobcdn.com/im/images/2010/gz/danei0311_7118.gif" border="0" width="90" height="30"></a></td>
+	<td width="2"></td>
+	<td><a href="http://ac.51job.com/phpAD/adtrace.php?ID=11587918" title="石家庄频道火热上线" target="_blank"><img src="http://img01.51jobcdn.com/im/images/2010/careerpost/shijz/9030.gif" border="0" width="90" height="30"></a></td>
+	<td width="2"></td>
+	<td><a href="http://ac.51job.com/phpAD/adtrace.php?ID=11599884" title="北京测试空间科技发展有限公司" target="_blank"><img src="http://img01.51jobcdn.com/im/images/2010/bj/cskj0602_7894.gif" border="0" width="90" height="30"></a></td>
+	<td width="2"></td>
+	<td><a href="http://ac.51job.com/phpAD/adtrace.php?ID=11600378" title="上海于达信息技术有限公司" target="_blank"><img src="http://img01.51jobcdn.com/im/images/2010/sh/bdqn0624_7027.gif" border="0" width="90" height="30"></a></td>
+	<td width="2"></td>
+	<td colspan="1"></td>
+</tr>
+</table></div>
+	</div>
+	<div class="graybott">
+		<span><img src="http://img01.51jobcdn.com/im/2009/graybl.gif" align="left"/></span>
+		<span><img src="http://img01.51jobcdn.com/im/2009/graybr.gif" align="right"/></span>			
+	</div>
+</div></div></div></div><!--bottom start-->
+<div id="bottom">
+		<div id="bott">
+		<ul class="btext">
+			<li><a href="http://www.51job.com/bo/sitemap.php" target="_blank" onfocus="blur()">网站导航</a></li>
+			<li>|</li>
+			<li><a href="http://www.51job.com/bo/service.php" target="_blank" onfocus="blur()">服务声明</a></li>
+			<li>|</li>
+			<li><a href="http://www.51job.com/bo/contact.php" target="_blank" onfocus="blur()">联络我们</a></li>
+			<li>|</li>
+			<li><a href="http://www.51job.com/bo/AboutUs.php" target="_blank" onfocus="blur()">关于我们</a></li>
+			<li>|</li>
+			<li><a href="http://www.51job.com/bo/media/media.php" target="_blank" onfocus="blur()">媒体报道</a></li>
+			<li>|</li>
+			<li><a href="http://www.51job.com/vip/index.php" target="_blank" onfocus="blur()">加入无忧</a></li>
+			<li>|</li>
+			<li><a href="http://www.51job.com/hl/grjl.php" target="_blank" onfocus="blur()">帮助</a></li>
+			<li>|</li>
+			<li><a href="http://ir.51job.com" target="_blank" onfocus="blur()">Investor Relations</a></li>
+			<li>|</li>
+			<li><a href="http://www.51job.com/link.php" target="_blank" onfocus="blur()">合作伙伴</a></li>
+		</ul>
+	</div>
+	<div id="copyright">
+		<p class="fontright">人才招聘: 服务热线 400-886-0051 或Email:<a href="mailto:hr@51job.com" onfocus="blur()">hr@51job.com</a>　个人求职: Email:<a href="mailto:club@51job.com" onfocus="blur()">club@51job.com</a>　或垂询400-820-5100，800-820-5100</p>
+		<p class="fontright">未经51job.com 同意，不得转载本网站之所有招聘信息及作品</p>
+		<p class="fontright">无忧工作网版权所有&copy;1999-2010</p>
+	</div>
+	</div>
+<!-- bottom end --></body>
+</html>
+
+<script language="javascript">
+<!--
+	window.cfg = {
+		fileName: 'show_job_detail.php' ,
+		lang : 'c' ,
+		stype : '' ,
+		fullLang : 'Chinese' ,
+		langs : { 
+			sqzwml : 'applyjob' ,
+			qzzwqdg : '请在要选择的职位前打勾!' ,
+			myml : 'my' ,
+			ts_qxjzw : '请选择职位' ,
+			queren : '确认' ,
+			guanbi : '关闭' ,
+			nzdnxj : '您最多能选择' ,
+			xiang : '项' ,
+			xzdq : '选择地区' ,
+			xj_xg : '选择/修改' ,
+			zycs : '主要城市' ,
+			sysf : '所有省份' ,
+			buxian : '不限' ,
+			qingxj : '请选择' ,
+			yixuan : '已选' ,
+			znlb : '职能类别' ,
+			hylb : '行业类别' ,
+			gzdd : '工作地点' ,
+			quanbu : '全部' ,
+			zhineng : '职能' ,
+			hangye : '行业' ,
+			didian : '地点' ,
+			qsrgjz : '请输入关键字' ,
+			srpcgjz : '输入排除关键字'
+		} ,
+		url : { 
+			root : 'http://search.51job.com/jobsearch' ,
+			image : 'http://img01.51jobcdn.com/im/2009' ,
+			image_search : 'http://img01.51jobcdn.com/im/2009/search' ,
+			image_search_lang : 'http://img01.51jobcdn.com/im/2009/search/c' ,
+			image_search_c : 'http://img01.51jobcdn.com/im/2009/search/c' ,
+			image_search_e : 'http://img01.51jobcdn.com/im/2009/search/e'
+		} ,
+		domain : {
+			my : 'http://my.51job.com' ,
+			search : 'http://search.51job.com'
+		} ,
+		isJobview : '1' ,
+		isAcStatRecJob : '1' ,
+		acStatRecJobType : '0803111457'
+	};
+
+	function searchInit() {
+		if ( window.Search ) {
+			clearInterval( intVal );
+			window.zzSearch = new Search( { 
+				searchForm : document.searchForm ,
+				pageForm : document.pageForm ,
+				excludeForm : document.excludeForm ,
+				pageJumpForm : document.pageJumpForm ,
+				selJobPageForm : document.selJobPageForm ,
+				cfg : cfg
+			} );
+		}
+	}
+	var intVal = window.setInterval( searchInit , 50 );
+//-->
+</script>
